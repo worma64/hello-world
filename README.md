@@ -6,3 +6,5 @@ something about changes.
 
 
 a conflict change in master.
+
+left!
